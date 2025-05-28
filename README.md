@@ -30,9 +30,9 @@ Este repositório foi criado por 4 participantes da 16º edição do VemSer, ond
 
 ### 🛠️ Hard Skills
 
-|        Linguagens           | Frontend & UI/UX      | Backend & Banco de Dados | Ferramentas de Desenvolvimento  |
-| --------------------------- | --------------------- | ------------------------ | ------------------------------- |
-|  JavaScript, Python, Java   | Html, css, React.js   | Node.js, SQL, MongoDB    | Git, VsCode, Postman            |
+| Linguagens               | Frontend & UI/UX    | Backend & Banco de Dados | Ferramentas de Desenvolvimento |
+| ------------------------ | ------------------- | ------------------------ | ------------------------------ |
+| JavaScript, Python, Java | Html, css, React.js | Node.js, SQL, MongoDB    | Git, VsCode, Postman           |
 
 ---
 
@@ -67,3 +67,25 @@ Este repositório foi criado por 4 participantes da 16º edição do VemSer, ond
 | JavaScript, TypeScript | Nest, React, Prisma      | MySql, MongoDB | Cloud AWS, VS-Code, Postman |
 
 ---
+
+# 📝 Projetos:
+
+## 🌐 Sistema de Gerenciamento Escolar
+
+**Descrição:** Plataforma web completa para gerenciamento de escolas, incluindo controle de alunos, notas e frequência
+**Tecnologias:** React, Node.js, MongoDB, Express
+**Status:** ⏳ Em desenvolvimento
+
+## 📱 App de Controle Financeiro Pessoal
+
+**Descrição:** Aplicativo mobile para controle de gastos pessoais com gráficos e relatórios detalhados
+**Tecnologias:** React Native, Firebase, Chart.js
+**Status:** ⏳ Em desenvolvimento
+
+## 🎮 Jogo da Memória Educativo
+
+**Descrição:** Jogo educativo para crianças com diferentes níveis de dificuldade e temas educativos
+**Tecnologias:** HTML5, CSS3, JavaScript, Canvas API
+**Status:** ⏳ Em desenvolvimento
+
+**OBS.:** Utilizamos da IA para criar a seção de projetos fictícios.
