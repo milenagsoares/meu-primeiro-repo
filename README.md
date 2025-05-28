@@ -89,3 +89,14 @@ Este repositório foi criado por 4 participantes da 16º edição do VemSer, ond
 **Status:** ⏳ Em desenvolvimento
 
 **OBS.:** Utilizamos da IA para criar a seção de projetos fictícios.
+
+---
+
+- 4.4 Explore o git fetch (Opcional): 
+Faça outra pequena alteração no README.md diretamente no GitHub e commite.
+No terminal, use git fetch origin. Isso baixa as alterações remotas, mas não as integra automaticamente à sua branch local.
+Use git status para ver que sua branch local está "atrás" da origin/main.
+Use git diff main origin/main para ver as diferenças.
+Agora, use git merge origin/main para integrar as alterações (ou git pull origin main que combina fetch e merge).
+
+---
