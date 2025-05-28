@@ -36,19 +36,19 @@ Este repositório foi criado por 4 participantes da 16º edição do VemSer, ond
 
 ---
 
-## 👤 Pessoa 3 — _[Nome Aqui]_
+## 👤 milenagsoares (-----energia caiu------)
 
-![Foto de Pessoa 3](link-da-foto-aqui)
+![](#)
 
-- 🏗️ **Trilha:** Deploy automatizado com infraestrutura como código
-- 📚 **Curso:** Segurança na nuvem, escalabilidade de sistemas distribuídos
+- 🏗️ **Trilha:**
+- 📚 **Curso:**
 - 🌐 **Perfil do GitHub:** [github](#)
 
 ### 🛠️ Hard Skills
 
-| Ferramentas DevOps | Cloud | IaC       | CI/CD                     |
-| ------------------ | ----- | --------- | ------------------------- |
-| Docker, Kubernetes | AWS   | Terraform | GitHub Actions, GitLab CI |
+| xxxxxxxxxxx | xxxxx | xxxxx | xxxxxxx   |
+| ----------- | ----- | ----- | --------- |
+| xxxxxxxxxxx | xxx   | xxxxx | xxxxxxxxx |
 
 ---
 
