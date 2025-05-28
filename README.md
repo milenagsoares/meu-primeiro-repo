@@ -20,19 +20,19 @@ Este repositório foi criado por 4 participantes da 16º edição do VemSer, ond
 
 ---
 
-## 👤 Pessoa 2 — _[Nome Aqui]_
+## 👤 _[Kauã Kelvyn]_
 
-![Foto de Pessoa 2](link-da-foto-aqui)
+![Kerubink](https://github.com/Kerubink.png)
 
-- 🏗️ **Trilha:** Landing page responsiva, sistema de design para dashboard
-- 📚 **Estudando:** Acessibilidade, design tokens e sistemas de design escaláveis
-- 🌐 **Perfil do GitHub:** [github](#)
+- 🏗️ **Trilha:** QA
+- 📚 **Curso:** Ciencia da Computação
+- 🌐 **Perfil do GitHub:** [github](https://github.com/Kerubink)
 
 ### 🛠️ Hard Skills
 
-| Linguagens | Ferramentas de Design | Frameworks / Libs | Outras Skills                |
-| ---------- | --------------------- | ----------------- | ---------------------------- |
-| HTML, CSS  | Figma, Adobe XD       | React, Tailwind   | Responsividade, Prototipagem |
+|        Linguagens           | Frontend & UI/UX      | Backend & Banco de Dados | Ferramentas de Desenvolvimento  |
+| --------------------------- | --------------------- | ------------------------ | ------------------------------- |
+|  JavaScript, Python, Java   | Html, css, React.js   | Node.js, SQL, MongoDB    | Git, VsCode, Postman            |
 
 ---
 
