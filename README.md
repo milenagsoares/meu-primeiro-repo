@@ -4,19 +4,19 @@ Este repositório foi criado por 4 participantes da 16º edição do VemSer, ond
 
 ---
 
-## 👤 Pessoa 1 — _[Nome Aqui]_
+## 👤 Kariny Rodrigues Fernandes
 
-![Foto de Pessoa 1](link-da-foto-aqui) <!-- Substituir pelo link da imagem (ex: https://avatars.githubusercontent.com/u/12345678) -->
+![karinyrfernands](https://github.com/karinyrfernands.png)
 
-- 🏗️ **Trilha:** API de gerenciamento de usuários, dashboard com gráficos dinâmicos
-- 📚 **Estudando:** Testes automatizados, Clean Architecture
-- 🌐 **Perfil do GitHub:** [github](#)
+- 🏗️ **Trilha:** RPA
+- 📚 **Curso:** Análise e Desenvolvimento de Sistemas
+- 🌐 **Perfil do GitHub:** [karinyrfernands](https://github.com/karinyrfernands)
 
 ### 🛠️ Hard Skills
 
-| Linguagens     | Frameworks / Libs | Banco de Dados | Ferramentas          |
-| -------------- | ----------------- | -------------- | -------------------- |
-| JavaScript, TS | React, Node.js    | MongoDB        | Git, VSCode, Postman |
+| Linguagens | Frameworks / Libs | Banco de Dados | Ferramentas |
+| ---------- | ----------------- | -------------- | ----------- |
+| JavaScript | Node.js           | Excel          | Git, VSCode |
 
 ---
 
