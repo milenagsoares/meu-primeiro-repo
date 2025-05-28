@@ -41,7 +41,7 @@ Este repositório foi criado por 4 participantes da 16º edição do VemSer, ond
 ![Foto de Pessoa 3](link-da-foto-aqui)
 
 - 🏗️ **Trilha:** Deploy automatizado com infraestrutura como código
-- 📚 **Estudando:** Segurança na nuvem, escalabilidade de sistemas distribuídos
+- 📚 **Curso:** Segurança na nuvem, escalabilidade de sistemas distribuídos
 - 🌐 **Perfil do GitHub:** [github](#)
 
 ### 🛠️ Hard Skills
@@ -52,18 +52,18 @@ Este repositório foi criado por 4 participantes da 16º edição do VemSer, ond
 
 ---
 
-## 👤 Pessoa 4 — _[Nome Aqui]_
+## 👤 William Augusto de Lima
 
-![Foto de Pessoa 4](link-da-foto-aqui)
+![Foto de Pessoa 4](https://github.com/will-developer.png)
 
-- 🏗️ **Trilha:** API com análise de dados em tempo real, ETL automatizado
-- 📚 **Estudando:** Machine Learning, Apache Airflow
-- 🌐 **Perfil do GitHub:** [github](#)
+- 🏗️ **Trilha:** Full-Stack
+- 📚 **Estudando:** Engenharia da Computação - 6º semestre
+- 🌐 **Perfil do GitHub:** [will-developer](https://github.com/will-developer)
 
 ### 🛠️ Hard Skills
 
-| Linguagens | Bibliotecas / Frameworks | Banco de Dados | Ferramentas de Dados       |
-| ---------- | ------------------------ | -------------- | -------------------------- |
-| Python     | Pandas, FastAPI, NumPy   | PostgreSQL     | Jupyter, Airflow, Power BI |
+| Linguagens             | Bibliotecas / Frameworks | Banco de Dados | Ferramentas                 |
+| ---------------------- | ------------------------ | -------------- | --------------------------- |
+| JavaScript, TypeScript | Nest, React, Prisma      | MySql, MongoDB | Cloud AWS, VS-Code, Postman |
 
 ---
